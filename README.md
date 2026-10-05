@@ -2,13 +2,12 @@
 ## Description
 AstroVisBench is a benchmark for evaluating Large Language Models on scientific computing and data visualization tasks specific to astronomy, enabling systematic assessment of AI code generation capabilities for astronomical data analysis.
 
-
 Authors:
 Sebastian Joseph
 
-
 Working Group 1 - Explorable Universe
 
+Link to complete repository: https://github.com/NSF-Simons-CosmicAI-Institute/AstroVisBench
 
 ## Research Motivation
 This benchmark was developed to address the lack of domain-specific evaluation frameworks for assessing LLM performance on astronomy code tasks. It directly supports CosmicAI's Explorable Universe goal of building trustworthy AI assistants (AstroCopilot) by providing standardized metrics to measure progress in multi-modal LLM capabilities for astronomical research, including data processing, analysis pipelines, and scientific visualization generation.
